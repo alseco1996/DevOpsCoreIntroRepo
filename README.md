@@ -1,7 +1,5 @@
-echo "# DevOpsCoreIntroRepo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/alseco1996/DevOpsCoreIntroRepo.git
-git push -u origin main
+### Welcome to DevOps Core Intro Project Repository ###
+
+**Projects are a customizable, flexible tool for planning and tracking your work.**
+
+To find out more, refer to GitHub documentation [about Projects](https://docs.github.com/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
